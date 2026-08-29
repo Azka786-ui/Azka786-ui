@@ -133,40 +133,6 @@ Currently practicing **DSA with Java & C++**.
 
 ---
 
-# 🚀 Featured Projects
-
-### 🎬 MovieBox — Movie Explorer
-
-A movie discovery application built with **HTML, CSS & TypeScript**, using the **TMDB API**.
-
-🔗 [View Project](https://github.com/Azka786-ui/TypeScript-CodeCraft)
-
----
-
-### ⚛️ React Projects
-
-A collection of my React learning projects and experiments.
-
-🔗 [View GitHub Repositories](https://github.com/Azka786-ui?tab=repositories)
-
----
-
-### 📝 TypeScript Projects
-
-TypeScript practice, projects and experiments.
-
-🔗 [View TypeScript-CodeCraft](https://github.com/Azka786-ui/TypeScript-CodeCraft)
-
----
-
-# 📊 My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azka786-ui&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
-</p>
-
----
-
 # 🌱 Currently Learning
 
 ```text
