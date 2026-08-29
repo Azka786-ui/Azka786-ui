@@ -133,6 +133,10 @@ Currently practicing **DSA with Java & C++**.
 
 ---
 
+# 🧩 LeetCode
+
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=AzkaMuqadus_786&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
+
 # 🌱 Currently Learning
 
 ```text
