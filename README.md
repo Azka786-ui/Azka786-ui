@@ -97,7 +97,7 @@ Currently practicing **DSA with Java & C++**.
 
 ---
 
-# 📊 GitHub Analysis
+<!--# 📊 GitHub Analysis
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azka786-ui&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
@@ -105,7 +105,7 @@ Currently practicing **DSA with Java & C++**.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azka786-ui&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+</p>-->
 
 ---
 
@@ -117,11 +117,11 @@ Currently practicing **DSA with Java & C++**.
 
 ---
 
-# 📈 Contribution Activity
+<!-- # 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azka786-ui&hide_border=true" alt="GitHub Contribution Activity Graph" />
-</p>
+</p>-->
 
 ---
 
@@ -133,9 +133,9 @@ Currently practicing **DSA with Java & C++**.
 
 ---
 
-# 🧩 LeetCode
+<!--# 🧩 LeetCode
 
-[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=AzkaMuqadus_786&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=AzkaMuqadus_786&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)-->
 
 # 🌱 Currently Learning
 
